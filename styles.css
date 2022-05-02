@@ -1,0 +1,29 @@
+body {
+    background-image: linear-gradient(to right top, #051937, #082869, #34339b, #6e32c7, #b212eb);
+    text-align: center;
+    color: #fff;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  }
+  
+h1 {
+    padding-top: 40px;
+}
+
+input{
+    padding: 5px;
+    text-align: center;
+    font-size: 15px;
+}
+
+button {
+    padding: 5px;
+}
+  .container {
+    height: 100vh;
+}
+
+li {
+    font-size: 22px;
+    list-style: none;
+    padding: 10px;
+}
